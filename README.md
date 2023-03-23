@@ -51,5 +51,3 @@ pip install -r requirements.txt
 `uvicorn main:app --host 0.0.0.0 --port 3080
 `
 
-bommma blockblustersk-c0uqLgTswq0eNjxsfcD3T3BlbkFJAomb4UXo2uZWzJPIEIlk
-
