@@ -48,5 +48,6 @@ pip install -r requirements.txt
 
 3. Run the FastAPI server using uvicorn:
 
-uvicorn main:app --host 0.0.0.0 --port 3080
+`uvicorn main:app --host 0.0.0.0 --port 3080
+`
 
