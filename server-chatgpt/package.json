@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-copy-to-clipboard": "^5.1.0",
+    "typewriter-effect": "^2.19.0"
+  }
+}
