@@ -50,3 +50,4 @@ pip install -r requirements.txt
 
 `uvicorn main:app --host 0.0.0.0 --port 3080
 `
+pandagacheskobabayoosk-Bsc8B2JwURHTntQAADW3T3BlbkFJE0Nzhvu7FMWF2j9uiy89
