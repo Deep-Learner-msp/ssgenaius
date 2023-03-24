@@ -22,8 +22,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-#openai.api_key = os.getenv("API_KEY")  # Ensure you have the API key in your environment variables
-openai.api_key = ""
+openai.api_key = os.getenv("API_KEY")  # Ensure you have the API key in your environment variables
+# openai.api_key = ""
 
 
 class FeedbackData(BaseModel):
