@@ -21,8 +21,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-openai.api_key = os.getenv("API_KEY")  # Ensure you have the API key in your environment variables
+openai.api_key = os.environ['API_KEY'] # Ensure you have the API key in your environment variables
 # openai.api_key = ""
 
 
